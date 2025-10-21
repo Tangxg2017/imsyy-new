@@ -2,7 +2,7 @@
 
 <p>
 <strong><h2>糖小果主页</h2></strong>
-简单的小主页，原来的看够了，重新弄了一个
+简单的小主页，fork自imsyy的库。
 </p>
 
 ![糖小果主页](/screenshots/main.jpg)
